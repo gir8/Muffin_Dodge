@@ -1,0 +1,1 @@
+This file contains the game Muffin_Dodge.  It was made using pygame.  The code uses classes to make the player and muffins that spawn at different locations, speeds, and rotations.
